@@ -1,0 +1,49 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.crdownload
+
+# Arduino / ESP32 / PlatformIO build output
+.arduinoIDE/
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+**/build/
+*.elf
+*.map
+*.bin
+*.eep
+*.o
+*.obj
+*.d
+*.a
+*.lst
+*.sym
+
+# Keil / STC generated output
+**/Listings/
+**/Objects/
+*.uvgui.*
+*.uvguix.*
+*.build_log.htm
+*.lnp
+*.m51
+*.axf
